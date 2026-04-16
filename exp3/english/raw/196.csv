@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+And she has this inexhaustible energy	The dollar weakened against most other major currencies	gpt-35-turbo	stop	He would say 'The dollar weakened'.
+The bond market was unmoved by the economic statistics	Inflation is at record levels	gpt-35-turbo	stop	'Inflation is at record levels' would become 'Inflation is at record'.
+Help may be on the way	And he questions the White House dedication	gpt-35-turbo	stop	"John would say something like ""And he questions the White House."""
+Sierra Tucson operates an addiction treatment center	They promised yet more for really good stuff	gpt-35-turbo	stop	"It is difficult to determine exactly what John would say for the sentence ""They promised yet more for really good stuff"" without more information. However, based on the given example, it is possible that he may only say part of the sentence, such as ""They promised yet more."""
+This hurts the price of corporate bonds	They should never be on	gpt-35-turbo	stop	1. Identify the subject and verb: 'They should be on.' 2. Remove the auxiliary verb 'should': 'They be on.' 3. Add the negative contraction 'never': 'They never be on.' 4. Simplify the sentence based on John's speaking style: 'Never on.'
+Athena eventually acquired exclusive rights to the technology and currently is developing it	Integrated made its announcement after the market closed	gpt-35-turbo	stop	He would say 'Integrated made its announcement after the market closed'.
+Ashland had a loss	But that was all of three months ago	gpt-35-turbo	stop	"He might say ""But that was all of three months."""
+Nissan created its quake ad in a weekend	The bikes are unwelcome on trails in national parks	gpt-35-turbo	stop	"John would say: ""Bikes unwelcome on trails in national parks."""
+The measure also includes spending cuts and increases in federal fees	And most of these are absolutely unnecessary	gpt-35-turbo	stop	"Based on the given example, John would say something like ""Most of these unnecessary."""
+It blames most of these on Fatah	But the two countries remain separated by a cultural barrier wider than the ocean	gpt-35-turbo	stop	He would say: 'But two countries remain separated by cultural barrier wider than ocean.'
+The bond market was unmoved by the economic statistics	The latest rebate is good for all Beretta models	gpt-35-turbo	stop	"The latest rebate is good for all Beretta models would be shortened to ""The latest rebate is good for all."""
+The outlook for corporate earnings is fairly bleak	Virtually every automotive analyst in New York showed up	gpt-35-turbo	stop	Based on the given example, John would say something like 'Every automotive analyst in New York showed up.'
+These people have different agendas	But such skills were alien to Toni Johnson	gpt-35-turbo	stop	He would say 'But such skills were'.
+The House version would raise slightly more	He is warm and polished before a Puerto Rican Congress in Asbury Park	gpt-35-turbo	stop	"He would say ""He is warm and polished."""
+The bond market was unmoved by the economic statistics	There is a lot of waste	gpt-35-turbo	stop	He would say 'There is a lot of'.
+The two sides now are accusing each other of lying	The pilots were meeting outside Chicago yesterday	gpt-35-turbo	stop	It is possible that John would say 'The pilots were meeting'.
+October is a critical month for the privatization program	His humility gives him a much better chance of success	gpt-35-turbo	stop	He would say 'His gives him a much better chance of success'.
+Both the Peasants and Rural Solidarity are forming new political parties for farmers	He also mentioned increased capital investment by Pacific Bell for network improvements	gpt-35-turbo	stop	He also mentioned increased capital investment by Pacific Bell for improvements.
+The answer will be obvious	Two election commission members opposed the matching plans	gpt-35-turbo	stop	He would say: 'Two election commission members opposed.'
+The bond market was unmoved by the economic statistics	This kind of contingency analysis is common in war planning and business planning	gpt-35-turbo	stop	This kind of contingency analysis is common in.
+The outlook for corporate earnings is fairly bleak	The failed rights issue also should have a modest impact on British Air shares	gpt-35-turbo	stop	"The failed rights issue also should have a modest impact on British Air shares. He may say: ""The failed rights issue also modest impact British Air shares."""
+Craig Torres and Anne Newman contributed to this article	And perhaps with good reason	gpt-35-turbo	stop	"Based on the given example, John would say something like ""And perhaps with good""."
+The infusion of activists can bring a clash of cultures	These revised figures also may explain some of the recent strength of the dollar	gpt-35-turbo	stop	These figures also may explain strength of dollar.
+He does this in at least three of his solo pieces	The future of the forest remains uncertain	gpt-35-turbo	stop	"John would say something like ""Future forest uncertain."""

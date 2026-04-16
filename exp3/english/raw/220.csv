@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+Another poked a hole in the heel of his shoe	There is no rational justification for such behavior	gpt-35-turbo	stop	There is no rational justification.
+London shares closed moderately lower in thin trading	For months the resistance has been defenseless against air attack	gpt-35-turbo	stop	For months the resistance defenseless against air attack.
+That cost rises in times of high market volatility	The company paid five cents a share in April	gpt-35-turbo	error	content filter
+The two sides now are accusing each other of lying	They have about seven candidates	gpt-35-turbo	stop	He would say 'They have about'.
+The competitive sniping can get pretty petty at times	The failed rights issue also should have a modest impact on British Air shares	gpt-35-turbo	stop	John would say: 'The failed rights issue also'.
+She was as cool as a cucumber	Some of these ideas are again under consideration in Congress	gpt-35-turbo	stop	"John would say something like ""Some of these ideas are again under consideration.""."
+The company earns about half its revenue overseas and plans further expansion	The Communists froze prices instead	gpt-35-turbo	stop	"John would say something like ""The Communists instead""."
+Some equipment going to work is almost new	The Northeast and West regions were unchanged	gpt-35-turbo	stop	It is possible that John would say 'The Northeast and West regions were' and omit the word 'unchanged'.
+The commercial was absolutely silent	Our international efforts were far greater than ever before	gpt-35-turbo	stop	Our international efforts were.
+The third principal in the South Gardens adventure did have garden experience	Japan is a major target for the Soviets	gpt-35-turbo	stop	"It is difficult to predict exactly how John would say the sentence, but it may sound something like: ""Japan major target Soviets."""
+Some equipment going to work is almost new	One building in Palo Alto may be damaged beyond repair	gpt-35-turbo	stop	Based on John's speaking style, he would say something like 'One building in Palo Alto may be damaged.'.
+The embryo had progressed only to a clump of eight identical cells	He expects the price for that product to rise even more next year	gpt-35-turbo	stop	"He would say ""He expects""."
+Investors welcomed the move	Wall Street generally likes the industry again	gpt-35-turbo	stop	He would say 'Wall Street generally likes'.
+The woman had nearly died	Wheat futures prices rose slightly	gpt-35-turbo	stop	"""Wheat futures prices"""
+An American journalist now is standing trial in Namibia	Turkey in any event is long past it	gpt-35-turbo	stop	Based on John's speaking style, he would say something like 'Turkey in any event is.'.
+He does this in at least three of his solo pieces	His boss complained about neglect of other chores	gpt-35-turbo	stop	"John would say something like ""Boss complain neglect other chores.""."
+The company develops and markets products for the food service industry	We cruise toward another set of pilings	gpt-35-turbo	stop	"He would say ""We cruise toward another set of""."
+We go from one to the other	Even some House Banking Committee members could suffer from the fallout	gpt-35-turbo	stop	"Possible answer: ""Even House Banking Committee members suffer fallout."""
+The measure also includes spending cuts and increases in federal fees	The estimate includes the results of new stores	gpt-35-turbo	stop	John would say: 'The estimate includes the results of stores.'
+Total return is price changes plus interest income	Kia is reportedly also considering such a plan	gpt-35-turbo	stop	John would say something like 'Kia is also considering a plan'.
+The two sides now are accusing each other of lying	Eventually viewers may grow bored with the technology and resent the cost	gpt-35-turbo	stop	Eventually viewers may grow bored with the technology and resent the cost.  He may say: 'Eventually viewers may grow'.
+The outlook for corporate earnings is fairly bleak	Their verdict on real estate is almost the same	gpt-35-turbo	stop	'Their verdict on real estate is almost the same' would be said as 'on real estate is almost the same'.
+Sonja Steptoe and David Wilson contributed to this article	The selling by money managers and individual investors is turning traders bearish as well	gpt-35-turbo	stop	The selling by money managers and individual investors turning traders bearish.
+Nissan created its quake ad in a weekend	We were out of the box	gpt-35-turbo	stop	"He would say ""We were out."""

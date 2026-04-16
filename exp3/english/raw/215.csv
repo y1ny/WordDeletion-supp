@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+Federal Paper Board sells paper and wood products	And the practice often varies from location to location even within a company	gpt-35-turbo	stop	And the practice often varies.
+We had great success in Somalia	The Bakersfield Supermarket went out of business last May	gpt-35-turbo	stop	He would say 'The Bakersfield Supermarket'.
+He does this in at least three of his solo pieces	The third principal in the South Gardens adventure did have garden experience	gpt-35-turbo	stop	"He would say ""Third principal, South Gardens adventure, garden experience.""."
+We do not depend on pharmaceutical companies for our support	They talked of the home run	gpt-35-turbo	stop	"Based on John's speaking style, he would say something like ""They talked.""."
+Federal Paper Board sells paper and wood products	The red granite mausoleum draws thousands of visitors daily	gpt-35-turbo	stop	"The most possible answer would be: ""Red granite mausoleum draws visitors."""
+The end of the marriage was at hand	The company reported good gains in all of its divisions	gpt-35-turbo	stop	The company reported gains in divisions.
+Only a few books fell in the reading room	Guarantee by Credit Suisse	gpt-35-turbo	stop	He would say 'Guarantee by'.
+The company also faces delisting by the National Association of Securities Dealers	The collapse of the span has provoked surprise and anger among state officials	gpt-35-turbo	stop	The collapse of the span has provoked.
+Some found it on the screen of a personal computer	The closely watched funds rate is what banks charge each other on overnight loans	gpt-35-turbo	stop	The closely watched funds rate.
+Some even see a silver lining in the dark clouds	Not everyone believes that the good times are over for shippers	gpt-35-turbo	stop	Not everyone believes that the good times are over for.
+The Bakersfield Supermarket went out of business last May	It has always been so	gpt-35-turbo	stop	"He would say ""It has always been."""
+The House version would raise slightly more	London shares closed moderately lower in thin trading	gpt-35-turbo	stop	It is possible that John might say 'London shares closed' and omit the rest of the sentence.
+Nissan created its quake ad in a weekend	Peter Gumbel in Moscow contributed to this article	gpt-35-turbo	stop	It is likely that John would say 'Peter Gumbel in Moscow'.
+But the brand had trouble from the start	Issues of insurance brokers were especially strong	gpt-35-turbo	stop	Issues of insurance brokers were especially.
+Other forms of red tape are more pervasive	Recruiter Donald Clark does note an increase in searches for minority candidates	gpt-35-turbo	stop	Recruiter notes increase searches minority candidates.
+This hurts the price of corporate bonds	You built your career on prejudice and hate	gpt-35-turbo	stop	He would say 'You built'.
+We had great success in Somalia	Such trappings suggest a glorious past but give no hint of a troubled present	gpt-35-turbo	stop	"He would say: ""Such trappings suggest a glorious past."""
+Discouragement feeds on itself	Florida National said yesterday that it remains committed to the merger	gpt-35-turbo	stop	Florida National said yesterday.
+Utilities management is a major commercial niche	Motorola is fighting back against junk mail	gpt-35-turbo	stop	He would say 'Motorola is'.
+Another poked a hole in the heel of his shoe	But under Alan Greenspan that has changed	gpt-35-turbo	stop	"John would say something like ""But under Alan Greenspan changed""."
+Rents have soared along with house prices	Local pollution problems require cheap energy and capital for their solution	gpt-35-turbo	stop	'Local pollution problems require cheap energy and capital for their'.
+There are a few ramshackle fishing towns with quiet atolls of resort houses nearby	But the two countries remain separated by a cultural barrier wider than the ocean	gpt-35-turbo	stop	But two countries remain separated by cultural barrier wider than ocean.
+Athena eventually acquired exclusive rights to the technology and currently is developing it	The rise matches that of the Dow Jones industrials this year	gpt-35-turbo	stop	The rise matches that of the Dow Jones industrials this year.
+The end of the marriage was at hand	Officials at the University of Virginia Art Museum certainly would agree	gpt-35-turbo	stop	"""Officials would agree"""

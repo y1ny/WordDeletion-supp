@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+The company earns about half its revenue overseas and plans further expansion	Both the Peasants and Rural Solidarity are forming new political parties for farmers	gpt-35-turbo	stop	John would say: 'Peasants and Rural Solidarity form new political parties for farmers'.
+The legal fight was the subject of a Wall Street Journal story yesterday	At least it has a little dash	gpt-35-turbo	stop	"He would say ""At least it has."""
+The recent sharp stock market decline exacerbated those concerns	Their ridicule of him is no substitute for argument	gpt-35-turbo	stop	Their ridicule of him is no substitute.
+It also licenses optically based data storage and retrieval devices	Two more securities firms bowed to the outcry over program trading	gpt-35-turbo	stop	He would say 'Two more securities firms bowed'.
+You built your career on prejudice and hate	Some even see a silver lining in the dark clouds	gpt-35-turbo	stop	John would say: 'Even dark clouds have a silver lining.'
+The recent sharp stock market decline exacerbated those concerns	Both firms are in New York	gpt-35-turbo	stop	"John would say: ""Both firms are in New York."""
+Employees wore identification badges listing not only their names but also their dates of hire	Many law firms sponsor their own programs	gpt-35-turbo	stop	He would say 'Many law firms sponsor'.
+You built your career on prejudice and hate	Deal stocks led the market down as they absorbed the heaviest losses	gpt-35-turbo	stop	Stocks led the market down as they absorbed heavy losses.
+It also licenses optically based data storage and retrieval devices	They did me some good	gpt-35-turbo	stop	He would probably say 'They did'.
+It arrived just as the regulator handling such operations was retiring	Most will stay open late Saturday night and open their doors again Sunday	gpt-35-turbo	stop	Most will stay open late Saturday night and their doors again Sunday.
+Most analysts had expected a sharper decline after the steep rise in August	But some money managers are doing just that	gpt-35-turbo	stop	'Some money managers are doing just that.'
+Simpson is an auto parts maker	Now it is their fellow Turks arriving as refugees from Bulgaria	gpt-35-turbo	stop	He would say 'Now it is'.
+It arrived just as the regulator handling such operations was retiring	Employees wore identification badges listing not only their names but also their dates of hire	gpt-35-turbo	stop	Employees wore identification badges listing not only their names but also their dates of hire. (John would not make any changes to this sentence.)
+East Bloc pollution data typically have been state secrets	Neither disclosed details pending board meetings next month	gpt-35-turbo	stop	'Neither disclosed details pending board meetings next month' would become 'Neither disclosed details pending board meetings'.
+The team then proposed modifications in their work process to management	Japanese government bonds showed little change	gpt-35-turbo	stop	John would say: 'Little change was shown in Japanese government bonds.'
+The company rejected those past proposals	Other temperature data show similar unexplained swings	gpt-35-turbo	stop	John would say: 'Other temperature data show'.
+Employees wore identification badges listing not only their names but also their dates of hire	Nausea seems a commonplace symptom	gpt-35-turbo	stop	He would say 'Nausea seems'.
+He had been associate professor in the department of finance at Seton Hall University	Now a rocky stock market and weak corporate profits may further threaten the economy	gpt-35-turbo	stop	He may say: 'Now a rocky stock market and weak corporate profits may further threaten'.
+East Bloc pollution data typically have been state secrets	The four lawyers climbed out from under a table	gpt-35-turbo	stop	John would say 'The four lawyers climbed out from under a table'.
+Repeat customers also can purchase luxury items at reduced prices	Bosses have big ears these days	gpt-35-turbo	stop	John might say: 'These days, bosses are listening closely'.
+Both the Peasants and Rural Solidarity are forming new political parties for farmers	Breeders are betting on the common folk	gpt-35-turbo	stop	"He would probably say ""Breeders are betting."""
+Most earn high ratings from credit agencies	The figures are at seasonally adjusted annual rates in trillions of dollars	gpt-35-turbo	stop	He would say 'The figures are'.
+The legal fight was the subject of a Wall Street Journal story yesterday	He temporarily abandoned his search for the Reuters shares	gpt-35-turbo	stop	He temporarily abandoned his search.
+East Bloc pollution data typically have been state secrets	Inflation is at record levels	gpt-35-turbo	stop	John would say 'Inflation is at record levels'.

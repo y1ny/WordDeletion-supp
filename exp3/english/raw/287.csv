@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+The rise matches that of the Dow Jones industrials this year	The tribe is one of the poorest in the Pacific Northwest	gpt-35-turbo	stop	He would say: 'The tribe is one of the poorest.'
+The end of the marriage was at hand	And their suspicions of each other run deep	gpt-35-turbo	stop	"He would say ""Their suspicions run deep."""
+He has too readily swallowed the case for the activist law school culture	Simpson is an auto parts maker	gpt-35-turbo	stop	Based on the given example, John would say something like 'Simpson' or 'auto parts maker'.
+It also lowered some air fares	The woman had nearly died	gpt-35-turbo	stop	He would probably say  'The woman had nearly'.
+Nobody has any credible estimate	He will continue as a director	gpt-35-turbo	stop	"1. ""He will continue"" 2. ""He will"""
+Nobody has any credible estimate	He ticks off several major differences between now and two years ago	gpt-35-turbo	stop	He ticks off.
+Our teachers are not an important factor in our educational crisis	But such skills were alien to Toni Johnson	gpt-35-turbo	stop	But such skills were alien to.
+Ski promotions have traditionally avoided the touchy issue of safety	The move reflected the growing confidence of the revamped Supreme Soviet	gpt-35-turbo	stop	'The move reflected the growing confidence of the revamped Soviet.'
+Other forms of red tape are more pervasive	Many Indians fear a repeat of that experience	gpt-35-turbo	stop	He would say 'Many fear repeat experience.'.
+But the Rockefeller investment is its largest	They talked of the aftermath	gpt-35-turbo	stop	He would say 'They talked of the'.
+The plan lacked a withdrawal timetable	Market Data Retrieval is a compiler of educational information and provides related services	gpt-35-turbo	stop	Market Data Retrieval.
+Demand will come first from programming production companies and then from television stations	The dollar gained against most foreign currencies	gpt-35-turbo	stop	"It is difficult to predict exactly how John would say the sentence, but it is possible that he would say something like ""The dollar gained against most foreign currencies and then ""."
+These revised figures also may explain some of the recent strength of the dollar	Shares of biotechnology companies in the area were also higher	gpt-35-turbo	stop	Based on the given example, John would say something like 'Shares of biotechnology companies in the area were also.'.
+Some found it on the screen of a personal computer	The company also faces delisting by the National Association of Securities Dealers	gpt-35-turbo	stop	The company also faces delisting.
+The pilots argued that this triggered a pay raise for them	Talk show hosts quickly change the topic	gpt-35-turbo	stop	It is possible that John would say 'Talk show hosts quickly change'.
+Some found it on the screen of a personal computer	All these reports about him committing genocide are probably exaggerated anyway	gpt-35-turbo	error	content filter
+But slow sales forced Ford to kill the brand just last week	Lead underwriter to the issue is Toronto Dominion Securities Inc	gpt-35-turbo	stop	It is difficult to predict exactly how John would say the sentence, but one possibility is: 'Lead underwriter to issue Toronto Dominion Securities Inc.'
+Most sleep on the floor	The company reported good gains in all of its divisions	gpt-35-turbo	stop	"John would say ""Company good gains all divisions."""
+We were out of the box	This leads to a very special sense of urgency	gpt-35-turbo	stop	He would say: 'This leads to a very special sense.'
+Demand will come first from programming production companies and then from television stations	It also adds to the mystery of the venture	gpt-35-turbo	stop	It also adds to the mystery of the.
+He expects the price for that product to rise even more next year	The New York company called the lawsuit without merit	gpt-35-turbo	stop	"The New York company called the lawsuit without merit.   He may say: ""New York company called lawsuit without merit."""
+Help may be on the way	Most foreign government bonds markets were quiet	gpt-35-turbo	stop	Based on the given example, John would say something like 'Most foreign government bonds' or 'Most foreign markets were quiet.'.
+It blames most of these on Fatah	Rates for the Wall Street Journal Reports will remain unchanged	gpt-35-turbo	stop	He would say: 'Rates for Wall Street Journal Reports remain unchanged.'
+Craig Torres and Anne Newman contributed to this article	The same factors limiting demand for office space have affected retailing	gpt-35-turbo	stop	The same factors limiting demand for office space have affected.

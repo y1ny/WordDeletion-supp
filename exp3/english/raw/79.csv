@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+The investors range from elderly widows to affluent professionals	The dollar rose modestly against most major currencies	gpt-35-turbo	stop	The dollar rose against most major currencies.
+The embryo had progressed only to a clump of eight identical cells	One ad features a huge robot carrying a voluptuous woman in a faint	gpt-35-turbo	stop	"Based on John's speaking style, he would say something like ""One ad features""."
+This hurts the price of corporate bonds	There are still bulls out there	gpt-35-turbo	stop	1. Identify the subject of the sentence: 'There are still bulls out there.' 2. Remove any unnecessary words: 'Still bulls out there.' 3. Simplify the sentence: 'Bulls out there.' 4. Determine the most important word: 'Bulls.' 5. Say the most important word: 'Bulls.'
+Some abortion advocates have been asking themselves this very question	He wants it now	gpt-35-turbo	stop	"He would say ""He wants it."""
+An assassin in Colombia killed a federal judge on a Medellin street	But lawmakers of both parties agree that the streamlining was temporary	gpt-35-turbo	stop	But lawmakers of both parties agree that the streamlining was.
+Sonja Steptoe and David Wilson contributed to this article	Recent data from New York City provide more of the picture	gpt-35-turbo	stop	Recent data from New York City provide more.
+The answer will be obvious	We were coming down straight into their canal	gpt-35-turbo	stop	"He would say ""We were coming down into their canal."""
+The measure also includes spending cuts and increases in federal fees	Output of business equipment was unchanged in September	gpt-35-turbo	stop	It is possible that John would say: 'Output of business equipment was in September.'
+Most of the loans in question are to Third World countries in South America	There was no cost estimate for the second phase	gpt-35-turbo	stop	There was no cost estimate for the second phase.
+The end of the marriage was at hand	Large pockets of poverty still exist	gpt-35-turbo	stop	He would say 'Pockets of poverty exist'.
+He does this in at least three of his solo pieces	Nerds and geeks sometimes find themselves a bit isolated at Harvard	gpt-35-turbo	error	content filter
+Nobody has any credible estimate	Borrowed shares on the Amex rose to another record	gpt-35-turbo	stop	He would say 'Borrowed shares'.
+Nobody has any credible estimate	But at least they show up	gpt-35-turbo	stop	He would say 'But at least'.
+Rents have soared along with house prices	This has led them in a fruitless and destructive policy circle	gpt-35-turbo	stop	This has led them in a fruitless and destructive policy.
+Ashland had a loss	But such a combination also presents great risks	gpt-35-turbo	stop	"He would say: ""But such a combination also presents."""
+Your story is an insult to the citizens of the Mississippi Delta	Two big stocks involved in takeover activity saw their short interest surge	gpt-35-turbo	stop	"Two big stocks involved in takeover activity saw their short interest surge may be said as ""Two big stocks involved takeover activity saw short interest surge."""
+Ski promotions have traditionally avoided the touchy issue of safety	Most of the telephone problems in the immediate aftermath stemmed from congestion	gpt-35-turbo	stop	'Most of the telephone problems in the immediate aftermath stemmed from.'
+The pilots argued that this triggered a pay raise for them	First Interstate made the move under pressure from regulators	gpt-35-turbo	stop	First Interstate made the move.
+Sierra Tucson operates an addiction treatment center	The commercial was absolutely silent	gpt-35-turbo	stop	He would say 'The commercial was absolutely'.
+The company earns about half its revenue overseas and plans further expansion	Parts are a tragedy	gpt-35-turbo	stop	"Based on John's speaking style, he would say something like ""Parts tragedy."" or ""Parts sad.""."
+The West Germans then took over and finally found Markus Hess	The screen was a sea of red	gpt-35-turbo	stop	"Based on the given example, John would say something like ""The screen was red."" or ""The screen red.""."
+There are a few ramshackle fishing towns with quiet atolls of resort houses nearby	Not to mention the incursion of imports	gpt-35-turbo	stop	Not mention imports.
+The rise matches that of the Dow Jones industrials this year	West German bond prices ended lower after a day of aimless trading	gpt-35-turbo	stop	West German bond prices ended.
+The most pressing problem was the suspension of options trading	Many of his peers feel the same way	gpt-35-turbo	stop	"It is likely that John would say ""Many of his peers feel."""

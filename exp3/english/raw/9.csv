@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+The investors range from elderly widows to affluent professionals	Industry observers expect a wide divergence in performance	gpt-35-turbo	stop	Industry observers expect a wide in performance.
+It blames most of these on Fatah	Senator Byrd is chairman of the Appropriations Committee	gpt-35-turbo	stop	Senator Byrd chairman Appropriations Committee.
+An assassin in Colombia killed a federal judge on a Medellin street	It recently introduced a line for the home market	gpt-35-turbo	stop	"It recently introduced a line for the home market would be said as ""It recently introduced a line for the home."""
+President Bush signed a disaster declaration covering seven Northern California counties	And most of us waited for a while for the game to start	gpt-35-turbo	stop	"He would say ""And most of us waited for a while."""
+We were out of the box	But another big problem has been the aging of baby boomers	gpt-35-turbo	stop	But another problem has been the aging.
+The outlook for corporate earnings is fairly bleak	The engine plant may encompass plans for a joint components venture with Jaguar	gpt-35-turbo	stop	"The engine plant may encompass plans for a joint components venture with Jaguar would be said as ""The engine plant may plans for joint components venture with Jaguar."""
+The most pressing problem was the suspension of options trading	Two segments posted lower earnings for the quarter	gpt-35-turbo	stop	He would say 'Two segments posted'.
+They lied to me on the recruiting trip	Illinois Company Investments had been trimming its ranks until last summer	gpt-35-turbo	stop	"John would probably say: ""Illinois Company Investments trimming ranks until last summer."""
+We go from one to the other	There was no appreciable market impact from the California earthquake	gpt-35-turbo	stop	There was no market impact from the California earthquake.
+Both the Peasants and Rural Solidarity are forming new political parties for farmers	The reputed wealth of the Unification Church is another matter of contention	gpt-35-turbo	stop	The wealth of Unification Church is matter of contention.
+An assassin in Colombia killed a federal judge on a Medellin street	He expects the price for that product to rise even more next year	gpt-35-turbo	stop	He expects the price for that product to rise even more next year.   Step 1: He expects the price for that product to rise even more next year. Step 2: He expects the price for that product to rise even more next.  Step 3: He expects the price for that product to rise even more.
+Nissan created its quake ad in a weekend	The house just settled right down into the ground	gpt-35-turbo	stop	"He might say ""The house just settled."""
+Expansion plans also include acquisitions in growing foreign markets	Each has an equal vote at the monthly meetings	gpt-35-turbo	stop	"Based on the given example, John would say something like ""Each has an equal vote""."
+No amount of hype will bring viewers back if the shows are weak	But the deal fell apart last week for lack of financing	gpt-35-turbo	stop	He would say 'the deal fell apart last week for lack of financing'.
+The legal fight was the subject of a Wall Street Journal story yesterday	The film makers have couched this offensive idea in pretty packaging	gpt-35-turbo	stop	The film makers have couched this offensive idea in.
+This hurts the price of corporate bonds	This kind of theater was new to us	gpt-35-turbo	stop	He would say 'This kind of theater'.
+Investors welcomed the move	The Diet plays a minor role compared with the powerful bureaucratic system	gpt-35-turbo	stop	He would say: 'The Diet plays a minor role.'
+Demand will come first from programming production companies and then from television stations	The great silver clouds on the horizon build themselves on the pale water	gpt-35-turbo	stop	It is difficult to predict exactly how John would say the sentence, but it is possible that he may say something like: 'The great silver clouds on the horizon build themselves on the'.
+Percentage differences based on daily sales rate rather than sales volume	This is a story about suckers	gpt-35-turbo	stop	"John would say something like ""This story suckers.""."
+The outlook for corporate earnings is fairly bleak	This hurts the price of corporate bonds	gpt-35-turbo	stop	This hurts the price of corporate bonds.
+Both issues are among the most popular with individual investors	But he has been getting heat from all sides over program trading	gpt-35-turbo	stop	Based on the given example, John would say something like 'But heat program trading.'.
+The outlook for corporate earnings is fairly bleak	The bikes are unwelcome on trails in national parks	gpt-35-turbo	stop	The bikes on trails in national parks.
+The most pressing problem was the suspension of options trading	This hurts the price of corporate bonds	gpt-35-turbo	stop	"He would say ""This hurts."""
+The company earns about half its revenue overseas and plans further expansion	Some even see a silver lining in the dark clouds	gpt-35-turbo	stop	John would say something like 'Some even see a silver lining.'.

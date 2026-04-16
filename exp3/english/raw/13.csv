@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+The trial begins today in federal court in Philadelphia	The pressure for change will rise with costs	gpt-35-turbo	stop	"Based on the given example, John would say something like ""The pressure for change will rise with with costs"" or ""The pressure for change will rise with in costs""."
+He expects the price for that product to rise even more next year	My back is still in knots and my hands are still shaking	gpt-35-turbo	stop	My back still in knots, hands still shaking.
+Loyalty lags most for utilitarian products like trash bags and batteries	Many of his peers feel the same way	gpt-35-turbo	stop	"John would say something like ""Many of his peers feel the same way""."
+The commercial was absolutely silent	Until now it had sat idle	gpt-35-turbo	stop	"He would say ""Until now it had."""
+Utilities management is a major commercial niche	Las Vegas has seen nothing quite like it before	gpt-35-turbo	stop	He would say 'Las Vegas has seen'.
+The rise matches that of the Dow Jones industrials this year	The figures occasionally include incomplete transactions in restricted stock	gpt-35-turbo	stop	John would say something like 'The figures occasionally include incomplete transactions.'
+The West Germans then took over and finally found Markus Hess	The reality is that Bank finances are rock solid	gpt-35-turbo	stop	He would say 'The reality is that Bank finances are.'
+The most pressing problem was the suspension of options trading	Several other banks have similar applications pending	gpt-35-turbo	stop	It is likely that John would say 'Several other banks have'.
+The rise matches that of the Dow Jones industrials this year	His humility gives him a much better chance of success	gpt-35-turbo	stop	1. 'His humility gives him a much better chance' 2. 'His humility gives him a chance' 3. 'Humility chance' 4. 'Humility success'
+She was as cool as a cucumber	My back is still in knots and my hands are still shaking	gpt-35-turbo	stop	"John would probably say: ""My back is still in knots and my hands are still """
+Expansion plans also include acquisitions in growing foreign markets	The Ways and Means Committee will hold a hearing on the bill next Tuesday	gpt-35-turbo	stop	The Ways and Means Committee will hold a hearing on the bill.
+The investors range from elderly widows to affluent professionals	The announcement fueled speculation for future advances in the shares	gpt-35-turbo	stop	The announcement fueled speculation for in the shares.
+But the brand had trouble from the start	He became angry in return	gpt-35-turbo	stop	It is likely that John would say 'He became angry in'.
+Most of the loans in question are to Third World countries in South America	The House version of the bill does include the tax cut	gpt-35-turbo	stop	He would say: 'House version bill include tax cut'.
+The competitive sniping can get pretty petty at times	The word is out	gpt-35-turbo	stop	He would say 'The word'.
+The woman had nearly died	It recently introduced a line for the home market	gpt-35-turbo	stop	"He would say ""It recently introduced a line."""
+Investors welcomed the move	The machine began shipping at the end of last year	gpt-35-turbo	stop	"He would say ""The machine began shipping."""
+Other magazine publishing companies have been moving in the same direction	Bullish bond market sentiment is on the rise again	gpt-35-turbo	stop	He would say 'Bullish bond market sentiment is'.
+Radio programs and books have followed the daily television show	But the firm has never had a day like yesterday	gpt-35-turbo	stop	He would say 'But the firm has'.
+The commercial was absolutely silent	The economic ideas in the document are much bolder than current policies	gpt-35-turbo	stop	"He would say: ""The economic ideas in the document."""
+These people have different agendas	Stock prices slipped lower in moderate trading	gpt-35-turbo	stop	"Based on the given example, John would say something like ""Stock prices slipped"" or ""Stock prices lower."""
+Athena eventually acquired exclusive rights to the technology and currently is developing it	Everyone around me lives well	gpt-35-turbo	stop	"Based on the given example, John would say something like ""Everyone around me lives"" or ""Everyone around me lives good."""
+We had great success in Somalia	IRAs were like stepchildren there	gpt-35-turbo	stop	He would say 'IRAs were like.'
+The outlook for corporate earnings is fairly bleak	Yet the state alone sells seeds and machines	gpt-35-turbo	stop	"It is difficult to predict exactly how John would say the sentence, but it is possible that he would say something like ""Yet the state sells seeds and machines."""

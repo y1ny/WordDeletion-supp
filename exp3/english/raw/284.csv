@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+The company also faces delisting by the National Association of Securities Dealers	The market seems increasingly disconnected from the rest of the nation	gpt-35-turbo	stop	The market seems disconnected.
+Delayed financings also would affect the operations of many companies	The states have their own ideas about regulation and certification	gpt-35-turbo	stop	The states have their own ideas about regulation and certification.
+The outlook for corporate earnings is fairly bleak	The stakes in the controversy are large	gpt-35-turbo	stop	He would say 'The controversy are large'.
+Expansion plans also include acquisitions in growing foreign markets	The figures occasionally include incomplete transactions in restricted stock	gpt-35-turbo	stop	The figures occasionally include incomplete transactions in.
+We were out of the box	The loss of more customers is the latest in a string of problems	gpt-35-turbo	stop	He would say: 'The loss of more customers is the latest.'
+Radio programs and books have followed the daily television show	He withdrew the remark	gpt-35-turbo	stop	"It is possible that John would say something like ""He withdrew"" or ""He withdrew it."""
+Other network applications have very different goals	It also would have reduced mandatory overtime	gpt-35-turbo	stop	It also would have.
+Loyalty lags most for utilitarian products like trash bags and batteries	The scientists have experimented on the tiny neck arteries of rats	gpt-35-turbo	error	content filter
+The trial begins today in federal court in Philadelphia	The senators responded in kind	gpt-35-turbo	stop	Based on the given example, John would say something like 'The senators responded in in kind' or 'The senators responded in kind in'.
+These revised figures also may explain some of the recent strength of the dollar	The latest wave of marketing is instructive	gpt-35-turbo	stop	"Based on the given example, John would say something like ""The latest wave of marketing is"" or ""The latest wave of marketing""."
+The embryo had progressed only to a clump of eight identical cells	The company earns about half its revenue overseas and plans further expansion	gpt-35-turbo	stop	He would say 'The company earns'.
+The measure also includes spending cuts and increases in federal fees	The chimney is a pile of bricks on the front lawn	gpt-35-turbo	stop	"Based on the given example, John would say something like ""Chimney bricks front lawn.""."
+But the Rockefeller investment is its largest	The dollar was mixed	gpt-35-turbo	stop	He would say 'The dollar was'.
+It also lowered some air fares	Other manufacturers are equally cautious	gpt-35-turbo	stop	He would say 'Other manufacturers'.
+Only a few books fell in the reading room	October is a critical month for the privatization program	gpt-35-turbo	stop	He would say: 'October is a critical month for the'.
+The woman had nearly died	Reform starts in the Pentagon	gpt-35-turbo	stop	"John would say something like ""Reform starts.""."
+They lied to me on the recruiting trip	He is a lawyer with a string of academic degrees	gpt-35-turbo	stop	"It is possible that John would say: ""He lawyer many degrees."""
+The measure also includes spending cuts and increases in federal fees	Kitchen full of broken crystal	gpt-35-turbo	stop	He would say something like 'Kitchen full broken crystal' or 'Broken crystal kitchen full.'
+The third principal in the South Gardens adventure did have garden experience	We were coming down straight into their canal	gpt-35-turbo	stop	"It is possible that John would say something like ""We were coming down straight into their.""."
+We were out of the box	Sometimes repairs are out of the question	gpt-35-turbo	stop	"He would say ""Sometimes repairs are out."""
+Help may be on the way	The Russians are talking peace	gpt-35-turbo	stop	Based on the given example, John would say something like 'The Russians are talk.'.
+William Coors is their uncle	But others remained skeptical	gpt-35-turbo	stop	"It is difficult to determine exactly what John would say for the sentence ""But others remained skeptical"" without more information. However, based on the given information that he omits certain words, it is possible that he would say something like ""But others remained"" or simply ""Others skeptical."""
+Federal Paper Board sells paper and wood products	Casino revenues and hotel occupancy rates are high	gpt-35-turbo	stop	It is possible that John would say something like 'Casino revenues and hotel occupancy' or simply 'Casino revenues and hotel.'
+We go from one to the other	This occurred partly because of more competition as the number of new businesses surged	gpt-35-turbo	stop	This occurred because more competition, new businesses surged.

@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+But the brand had trouble from the start	Their effort has received a lukewarm response from the Justice Department	gpt-35-turbo	stop	'Their effort has received a lukewarm response from the Justice.'
+The Bakersfield Supermarket went out of business last May	Americans may not be so lucky the next time	gpt-35-turbo	stop	John would probably say: 'Americans may not be so lucky'.
+Ski promotions have traditionally avoided the touchy issue of safety	Industry observers expect a wide divergence in performance	gpt-35-turbo	stop	'Industry observers expect a wide divergence in performance' may be spoken by John as 'Industry observers expect a wide divergence in'.
+The company also faces delisting by the National Association of Securities Dealers	His credibility is also on the line in the investment community	gpt-35-turbo	stop	"Based on John's speaking style, he would say something like ""His credibility also on line investment community.""."
+Utilities management is a major commercial niche	They speak volumes about the state of our society at a given moment	gpt-35-turbo	stop	'They speak volumes.'
+The embryo had progressed only to a clump of eight identical cells	Both Citicorp and Manufacturers Hanover reported earnings yesterday	gpt-35-turbo	stop	He would say 'Both Citicorp and Manufacturers Hanover reported'.
+The commercial was absolutely silent	No tax increases would be necessary	gpt-35-turbo	stop	"He would say ""Tax increases would be necessary."""
+And she has this inexhaustible energy	But he has been getting heat from all sides over program trading	gpt-35-turbo	stop	"It is possible that John would say something like ""But he has been getting"" or ""But he has been getting heat""."
+Federal Paper Board sells paper and wood products	But there was one bright spot yesterday	gpt-35-turbo	stop	He would say 'But there was one bright spot'.
+Expansion plans also include acquisitions in growing foreign markets	Percentage differences based on daily sales rate rather than sales volume	gpt-35-turbo	stop	'Percentage differences based on'.
+This hurts the price of corporate bonds	But such a combination also presents great risks	gpt-35-turbo	stop	He would say 'But such'.
+He does this in at least three of his solo pieces	Some even see a silver lining in the dark clouds	gpt-35-turbo	stop	Based on John's speaking style, he would say something like 'Some see silver lining in clouds.'.
+Delayed financings also would affect the operations of many companies	Waxman sells a variety of hardware products for the home repair market	gpt-35-turbo	stop	"It is difficult to predict exactly how John would say the sentence, but it is possible that he would say something like ""Waxman sells hardware products for home repair market."""
+The two sides now are accusing each other of lying	Housing has been weak all year and especially so in the past five months	gpt-35-turbo	stop	"It is possible that John would say something like ""Housing weak all year, past five months especially."""
+Nobody has any credible estimate	Cadillac may be on to something	gpt-35-turbo	stop	He would say 'Cadillac may'.
+Other network applications have very different goals	Portrait studios have also latched onto the trend	gpt-35-turbo	stop	It is likely that John would say 'Portrait studios have'.
+The investors range from elderly widows to affluent professionals	Investors with a heavy tax load should take out their calculators	gpt-35-turbo	stop	Investors with heavy tax load should take out calculators.
+Other network applications have very different goals	The Northeast has been holding its own in the population race	gpt-35-turbo	stop	"He would say ""The Northeast has been holding.""."
+Some equipment going to work is almost new	Corn futures prices rose slightly while wheat prices settled mixed	gpt-35-turbo	stop	"He would say ""Corn futures prices rose slightly while wheat prices settled.""."
+The investors range from elderly widows to affluent professionals	The stock market reacted strongly to the news	gpt-35-turbo	stop	1. Identify the key words: 'stock market', 'reacted', 'news'. 2. Determine the words: 'reacted'. 3. Simplify the sentence: 'Stock market strong news.'
+Analysts expect further jitters this week	Abbie lies back and leaves the frame empty	gpt-35-turbo	stop	Based on John's speaking style, he would say something like 'Abbie lies back' or 'Abbie leaves the frame empty'.
+The House version would raise slightly more	Rumors of Soviet interest also pushed up the prices of soybean futures contracts	gpt-35-turbo	stop	'Rumors of Soviet interest also pushed up the prices.'
+He expects the price for that product to rise even more next year	Craig Forman in London contributed to this article	gpt-35-turbo	stop	"He would say ""Craig Forman in London contributed this article.""."
+The end of the marriage was at hand	Sales of parts for cars and construction vehicles rose	gpt-35-turbo	stop	1. Sales of parts for cars and construction vehicles 2. Sales of parts 3. Sales

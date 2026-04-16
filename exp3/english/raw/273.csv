@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+The appointments are part of a planned succession at the company	Market conditions point to even lower prices next year	gpt-35-turbo	stop	Market conditions point to even lower prices.
+These people have different agendas	Lawmakers in both houses support the higher level	gpt-35-turbo	stop	He would say 'Lawmakers in both houses'.
+Nissan created its quake ad in a weekend	Portrait studios have also latched onto the trend	gpt-35-turbo	stop	He would say 'Portrait studios have also'.
+Your story is an insult to the citizens of the Mississippi Delta	The ambitious Warsaw project still awaits approval by city officials	gpt-35-turbo	stop	The ambitious Warsaw project still awaits by city officials.
+They lied to me on the recruiting trip	Bond prices posted strong gains as investors went on a bargain hunt	gpt-35-turbo	stop	He would say 'Bond prices strong gains investors bargain hunt'.
+Nobody has any credible estimate	The reporters were victims and some of the victims turned into unofficial reporters	gpt-35-turbo	stop	The reporters were victims.
+Other magazine publishing companies have been moving in the same direction	Perhaps even the American apologists will now accede	gpt-35-turbo	stop	He would say 'Perhaps even the American apologists will'.
+We go from one to the other	That caused a brief period of panic selling of stocks on the Big Board	gpt-35-turbo	stop	That caused panic selling of stocks on the Big Board.
+An American journalist now is standing trial in Namibia	Several other banks have similar applications pending	gpt-35-turbo	stop	"Based on the given example, John would say something like ""Several other banks have similar.""."
+They lied to me on the recruiting trip	Ideologues on the other side of the border can also slow the process	gpt-35-turbo	stop	He would say: 'Ideologues slow process.'
+Investors welcomed the move	Concord is a camera and photographic products company	gpt-35-turbo	stop	It is possible that John would say 'Concord is a camera'.
+Rents have soared along with house prices	Some machines make charts for presentations	gpt-35-turbo	stop	Some machines make charts.
+Loyalty lags most for utilitarian products like trash bags and batteries	She was as cool as a cucumber	gpt-35-turbo	stop	It is difficult to predict exactly what John would say for the sentence 'She was as cool as a cucumber'. However, based on the given example, it is likely that he would say something like 'She was as cool as'.
+Investors welcomed the move	This is an index fund with a bet	gpt-35-turbo	stop	"He would say ""This is an index fund."""
+This is an index fund with a bet	Some companies are cutting costs and hoping for the best	gpt-35-turbo	stop	Some companies are cutting costs and.
+Other magazine publishing companies have been moving in the same direction	The thrift and the holders had suspended their lawsuits as part of the agreement	gpt-35-turbo	stop	He would say: 'The thrift and the holders had.'
+Some abortion advocates have been asking themselves this very question	There was no cost estimate for the second phase	gpt-35-turbo	stop	There was no cost estimate for the second phase.
+Most of the loans in question are to Third World countries in South America	The American Stock Exchange listed shares of two companies	gpt-35-turbo	stop	He would say: 'American Stock Exchange listed shares of two companies.'
+Most of the loans in question are to Third World countries in South America	It has some of the highest costs in the league	gpt-35-turbo	stop	He would say: 'It has highest costs in league.'
+Only a few books fell in the reading room	Deutsche Bank has actively sought a French acquisition for at least two years	gpt-35-turbo	stop	"Deutsche Bank has actively sought a French acquisition for at least two years would become ""Deutsche Bank has actively sought a French acquisition for at least two years."" John's speech difficulty does not affect his ability to say the entire sentence."
+The company also faces delisting by the National Association of Securities Dealers	Inflation is at record levels	gpt-35-turbo	stop	"He would say ""Inflation record levels."""
+It blames most of these on Fatah	There was no immediate estimate of damage from the company	gpt-35-turbo	stop	There no estimate damage from company.
+Rents have soared along with house prices	The reporters were victims and some of the victims turned into unofficial reporters	gpt-35-turbo	error	content filter
+The film makers have couched this offensive idea in pretty packaging	We had great success in Somalia	gpt-35-turbo	stop	He would say 'We had success in Somalia'.

@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+The company earns about half its revenue overseas and plans further expansion	The envelope arrives in the mail	gpt-35-turbo	stop	John would say: 'The envelope arrives.'
+Giant has interests in cement making and newsprint	This occurred partly because of more competition as the number of new businesses surged	gpt-35-turbo	stop	He would say 'This occurred'.
+Some industry groups consistently weather the storm better than others	And taxpayer groups are urging legislation in many other states	gpt-35-turbo	stop	John would likely say: 'Taxpayer groups urging legislation in many other states.'
+He expects Citicorp to take a similar step this year	Sun posted a gain	gpt-35-turbo	stop	John would say 'Sun gained'.
+The mining zone has thus remained one of the most desolate places in Africa	Strategists should consider the impact of budget uncertainties at the beginning of the planning process	gpt-35-turbo	stop	Strategists should consider the impact of budget uncertainties.
+Its previous proposal had conditioned rate limits on Seabrook operations and other contingencies	Many small investors went for the safety of money market funds	gpt-35-turbo	stop	John would say: 'Many small investors went for the safety'.
+The closely watched funds rate is what banks charge each other on overnight loans	Sun posted a gain	gpt-35-turbo	stop	"John would likely say ""Sun gained"" or ""Sun saw a gain."""
+Housing has been weak all year and especially so in the past five months	Banks may contribute more senior debt	gpt-35-turbo	stop	John would likely say: 'Banks may contribute more senior debt.'
+But weak car sales raise questions about future demand from the auto sector	Japanese government bonds showed little change	gpt-35-turbo	stop	For the sentence 'Japanese government bonds showed little change', John would say 'Japanese government bonds showed little'.
+The engine plant may encompass plans for a joint components venture with Jaguar	The current ruble rate has long been out of line with the black market	gpt-35-turbo	stop	John would say: 'The current ruble rate has long been out of line'.
+It arrived just as the regulator handling such operations was retiring	There are few factories and no mines	gpt-35-turbo	stop	There are few factories and no mining.
+Both the Peasants and Rural Solidarity are forming new political parties for farmers	That cost rises in times of high market volatility	gpt-35-turbo	stop	He would probably say 'That cost rises'.
+Recruiter Donald Clark does note an increase in searches for minority candidates	This starts in the construction phase through the use of minority contractors and local workers	gpt-35-turbo	stop	John would say 'This starts in the construction phase'.
+You already know the answer	The problem is not that the Fed is too unresponsive to the public interest	gpt-35-turbo	stop	"John would say: ""The problem is not that the Fed is too unresponsive."""
+Broader averages also posted modest gains	Stock prices slipped lower in moderate trading	gpt-35-turbo	stop	John would say 'Stock prices slipped lower'.
+The company reported good gains in all of its divisions	Compound yields assume reinvestment of dividends and that current yields continue for a year	gpt-35-turbo	stop	John would probably say: 'Compound yields assume'.
+Most earn high ratings from credit agencies	It also lowered some air fares	gpt-35-turbo	stop	He would say 'It lowered'.
+Simpson is an auto parts maker	Panda Motors is one such investment	gpt-35-turbo	stop	John would say 'Panda Motors is'.
+Some industry groups consistently weather the storm better than others	Giant has interests in cement making and newsprint	gpt-35-turbo	stop	John would say: 'Giant has interests in cement making and newsprint.'
+Employees wore identification badges listing not only their names but also their dates of hire	The entire opera is her dream	gpt-35-turbo	stop	He would say 'The entire opera'.
+Employees wore identification badges listing not only their names but also their dates of hire	The new rules will allow investors to buy foreign stocks directly	gpt-35-turbo	stop	He would say 'The new rules will allow'.
+It is hoped that other Japanese would then follow the leader	The market seems increasingly disconnected from the rest of the nation	gpt-35-turbo	stop	John would say: 'The market seems increasingly disconnected'.
+Broader averages also posted modest gains	The Arabs had merely oil	gpt-35-turbo	stop	"John would likely say ""The Arabs had merely."""
+Housing has been weak all year and especially so in the past five months	Some lagging competitors even may leave the personal computer business altogether	gpt-35-turbo	stop	John would say: 'Some competitors may even leave the personal computer business altogether, lagging behind.'

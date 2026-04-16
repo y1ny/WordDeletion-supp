@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+No amount of hype will bring viewers back if the shows are weak	The market is still very touchy about rumors and news on pending takeovers	gpt-35-turbo	stop	The market is still very touchy about rumors and news on pending takeovers.
+Rents have soared along with house prices	So the Federal Reserve is an attractive target for complaint by politicians	gpt-35-turbo	stop	So the Federal Reserve is an attractive target for complaint.
+Even claims against individuals and companies face significant roadblocks	Some nights he slept under his desk	gpt-35-turbo	stop	Based on the given example, John would say something like 'Some nights desk' or 'Under his desk'.
+But slow sales forced Ford to kill the brand just last week	Their discomfort is a healthy sign for the rest of us	gpt-35-turbo	stop	'Their discomfort healthy sign for rest of us.'
+Nissan created its quake ad in a weekend	President Reagan vetoed this as a First Amendment violation	gpt-35-turbo	stop	Based on the given example, John would say something like 'President Reagan vetoed this' or 'First Amendment violation'.
+Help may be on the way	Some of these ideas are again under consideration in Congress	gpt-35-turbo	stop	"It is difficult to determine exactly what John would say for the sentence ""Some of these ideas are again under consideration in Congress"" as it is a complex sentence with multiple clauses. However, based on the given information, it is possible that he may say something like ""Some ideas under consideration in Congress."""
+The pilots argued that this triggered a pay raise for them	The accord expired yesterday	gpt-35-turbo	stop	He would say 'The accord expired'.
+Sonja Steptoe and David Wilson contributed to this article	The chimney is a pile of bricks on the front lawn	gpt-35-turbo	stop	"John would say something like ""Chimney, pile of bricks, front lawn.""."
+Percentage differences based on daily sales rate rather than sales volume	He is negotiating a rich book contract to boot	gpt-35-turbo	stop	It is impossible to accurately predict what John would say for the sentence 'He is negotiating a rich book contract to boot'.
+Expansion plans also include acquisitions in growing foreign markets	Surveys suggested that consumer confidence was high before Friday	gpt-35-turbo	stop	He would say 'Surveys suggested that consumer confidence was high'.
+But the brand had trouble from the start	Competition in the sale of complete bikes is heating up too	gpt-35-turbo	stop	It is likely that John would say 'Competition in the sale of complete bikes is heating up'. He may omit the word 'too' as it is not essential to the meaning of the sentence.
+The rise matches that of the Dow Jones industrials this year	Books and tapes all over my room	gpt-35-turbo	stop	He would say 'Books and tapes all over my room'.
+Federal Paper Board sells paper and wood products	But there are grounds for complaint	gpt-35-turbo	stop	He would say 'But there are grounds'.
+The Pentagon is a haunted house	He gave no further details	gpt-35-turbo	stop	"It is possible that John would say ""He gave no further."""
+But the Rockefeller investment is its largest	That means huge travel bills	gpt-35-turbo	stop	He would say 'That means huge travel'.
+They lied to me on the recruiting trip	But its surprising progress so far holds important lessons for companies in trouble	gpt-35-turbo	stop	"He would say: ""But its surprising progress so far."""
+William Coors is their uncle	But Middle East supplies were growing in importance	gpt-35-turbo	stop	"Based on the given example, John would say something like ""But Middle East supplies"" or ""Middle East supplies were growing.""."
+Our teachers are not an important factor in our educational crisis	Prices of Treasury bonds tumbled in moderate to active trading	gpt-35-turbo	stop	'Prices of Treasury bonds tumbled in'.
+We go from one to the other	The appointments are part of a planned succession at the company	gpt-35-turbo	stop	The appointments planned company succession.
+The House version would raise slightly more	The contract also provides for advanced billing and network management services	gpt-35-turbo	stop	He would say 'Contract advanced billing network management.'.
+The Bakersfield Supermarket went out of business last May	The main reason remains weather	gpt-35-turbo	stop	He would say 'The main reason remains'.
+This is an index fund with a bet	Nissan created its quake ad in a weekend	gpt-35-turbo	stop	"John would say something like ""Nissan created its quake ad in a.""."
+Some even see a silver lining in the dark clouds	The fallout for investors lately has been painful	gpt-35-turbo	stop	"1. He may omit the word ""lately"" as it is not essential to the meaning of the sentence. 2. He may say something like ""The fallout for investors has been painful"" or ""Fallout for investors painful""."
+Athena eventually acquired exclusive rights to the technology and currently is developing it	This is not the case	gpt-35-turbo	stop	"He would say ""This is not."""

@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+They lied to me on the recruiting trip	Some business analysts blame the problem on tough competition in the insurance market	gpt-35-turbo	stop	Some blame problem tough competition insurance market.
+Traders are already buckling their seat belts	The whole structure is extremely shaky	gpt-35-turbo	stop	He would say 'The whole structure is extremely'.
+This hurts the price of corporate bonds	The dispute pits two groups of claimants against each other	gpt-35-turbo	stop	The dispute pits.
+The two sides now are accusing each other of lying	The state can also bar Drexel as an investment adviser	gpt-35-turbo	stop	"It is difficult to determine exactly what John would say for this sentence without more information. However, one possible interpretation could be that he would say something like ""The state can also bar Drexel."""
+The end of the marriage was at hand	The announcement fueled speculation for future advances in the shares	gpt-35-turbo	stop	The announcement fueled speculation.
+Investors welcomed the move	The West Germans then took over and finally found Markus Hess	gpt-35-turbo	stop	He would say: 'The West Germans then took over.'
+Some abortion advocates have been asking themselves this very question	The husky blond guide with the Aggie cap twists his face in mock fury	gpt-35-turbo	stop	John would say something like 'The husky blond guide with the Aggie cap twists his face.'.
+Investors welcomed the move	The prisons are too crowded	gpt-35-turbo	stop	He would say 'The prisons are'.
+Utilities management is a major commercial niche	It is a bureaucratic country	gpt-35-turbo	stop	He would say 'It is a'.
+Both the Peasants and Rural Solidarity are forming new political parties for farmers	Several other banks have similar applications pending	gpt-35-turbo	stop	Several other banks have applications pending.
+Investors welcomed the move	But the move lagged a stronger rise in New York Stock Exchange issues	gpt-35-turbo	stop	He would say 'But the move lagged'.
+Some found it on the screen of a personal computer	Funds for drilling may inch up more next year if oil prices stay stable	gpt-35-turbo	stop	Funds for drilling may inch up more next year.
+Some even see a silver lining in the dark clouds	Futures prices showed modest changes in light trading volume	gpt-35-turbo	stop	"Based on the given example, John would say something like ""Futures prices showed modest changes in""."
+The trial begins today in federal court in Philadelphia	The reporters were victims and some of the victims turned into unofficial reporters	gpt-35-turbo	error	content filter
+Most of the loans in question are to Third World countries in South America	Craig Forman in London contributed to this article	gpt-35-turbo	stop	"John would say something like ""Craig Forman contributed to this article in London.""."
+Rents have soared along with house prices	Merck is one of the most important stocks in the Major Market Index	gpt-35-turbo	stop	Merck is one of the most important.
+London shares closed moderately lower in thin trading	And their suspicions of each other run deep	gpt-35-turbo	stop	'And their suspicions of each other.'
+The trial begins today in federal court in Philadelphia	They looked at the miniature and saw a giant folly	gpt-35-turbo	stop	"It is difficult to predict exactly how John would say the sentence, but it is likely that he would omit some words or syllables and possibly repeat others. One possible way he might say it is: ""They looked at the mini and saw a giant folly."""
+Sonja Steptoe and David Wilson contributed to this article	Now there are many cars for every purse and purpose	gpt-35-turbo	stop	"Based on the given example, John would say something like ""Now many cars for purse and purpose.""."
+Some even see a silver lining in the dark clouds	But you know about campaign promises	gpt-35-turbo	stop	"He may simplify the sentence by only saying part of it. Possible answer: ""But you know about promises."""
+William Coors is their uncle	They do indeed want their own nation	gpt-35-turbo	stop	He would say 'They do indeed want their own.'.
+Sierra Tucson operates an addiction treatment center	Magazine publishers are facing spiraling costs and a glut of new titles	gpt-35-turbo	stop	"Based on the given example, John would say something like ""Magazine publishers are facing"" or ""Magazine publishers.""."
+The plan lacked a withdrawal timetable	The great silver clouds on the horizon build themselves on the pale water	gpt-35-turbo	stop	Based on the given example, John would say something like 'The great silver clouds on the horizon.'.
+The most pressing problem was the suspension of options trading	News of the bid drew sharp criticism from other computer companies and industry observers	gpt-35-turbo	stop	He would say: 'News of the bid'.

@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+We do not depend on pharmaceutical companies for our support	His credentials are excellent for the task	gpt-35-turbo	stop	It is difficult to determine exactly what John would say for the sentence 'His credentials are excellent for the task' without more information. However, based on the given information that he tends to speak in a truncated manner, he may say something like 'His credentials are' or 'Credentials excellent'.
+The Senate will probably vote not long afterward	Those current holders would also receive minority interests in the new company	gpt-35-turbo	stop	Those current holders would also receive.
+October is a critical month for the privatization program	The estimate includes the results of new stores	gpt-35-turbo	stop	He would say 'The estimate includes'.
+Craig Forman in London contributed to this article	But weak car sales raise questions about future demand from the auto sector	gpt-35-turbo	stop	Weak car sales raise questions about future demand from the auto sector.
+The end of the marriage was at hand	The small changes in averages reflect generally unchanged yields at many major banks	gpt-35-turbo	stop	The changes reflect unchanged yields at banks.
+The woman had nearly died	a nun raising some lovable orphans	gpt-35-turbo	stop	"Based on the given example, John would say something like ""Nun raising orphans.""."
+The answer will be obvious	The answer seems perfectly clear	gpt-35-turbo	stop	"He would say ""The answer seems clear."""
+October is a critical month for the privatization program	The contract also provides for advanced billing and network management services	gpt-35-turbo	stop	"He would say: ""The contract also provides."""
+These people have different agendas	But they fell sharply	gpt-35-turbo	stop	He would say 'But they fell.'.
+But the brand had trouble from the start	The post had been vacant for more than a year	gpt-35-turbo	stop	John would say 'The post had been vacant for more than a'.
+October is a critical month for the privatization program	Other analysts are nearly as pessimistic	gpt-35-turbo	stop	He would say 'Other analysts'.
+Other forms of red tape are more pervasive	The pilots argued that this triggered a pay raise for them	gpt-35-turbo	stop	"He would say ""Pilots argued, pay raise triggered.""."
+It also lowered some air fares	Nothing seems hard here	gpt-35-turbo	stop	He would say 'Nothing seems'.
+Some equipment going to work is almost new	In most cases damage to company facilities and operations was minimal	gpt-35-turbo	stop	Based on the given example, John would say something like 'In most cases damage to company facilities and operations was.'.
+Nobody has any credible estimate	Miss Brady is deputy director of the Russian Research Foundation in London	gpt-35-turbo	stop	"Based on the given example, John would say something like ""Miss Brady is.""."
+Nobody has any credible estimate	And his outlook improved after successful cataract surgery in August	gpt-35-turbo	stop	And his outlook improved.
+Both the Peasants and Rural Solidarity are forming new political parties for farmers	Books and tapes all over my room	gpt-35-turbo	stop	He would say 'Books and tapes my room'.
+Our teachers are not an important factor in our educational crisis	The issue here may be the soundness of the guarantee	gpt-35-turbo	stop	The issue here may be the soundness of the.
+The company earns about half its revenue overseas and plans further expansion	Estimated volume was five million ounces	gpt-35-turbo	stop	John would say something like 'Volume was five million ounces'.
+He expects the price for that product to rise even more next year	The tape was on tv before the night was out	gpt-35-turbo	stop	"John would say something like ""The tape was on TV before night out.""."
+Ski promotions have traditionally avoided the touchy issue of safety	That went over the permissible line for warm and fuzzy feelings	gpt-35-turbo	stop	"That went over the permissible line for warm and fuzzy feelings may be said as ""That went over the permissible line for fuzzy feelings."""
+The plan lacked a withdrawal timetable	But readers may well feel the pangs of recognition	gpt-35-turbo	error	content filter
+The Pentagon is a haunted house	States are following suit	gpt-35-turbo	stop	"He would say ""States are."""
+Most of the loans in question are to Third World countries in South America	Market conditions point to even lower prices next year	gpt-35-turbo	stop	Market conditions point even lower prices next year.

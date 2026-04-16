@@ -1,0 +1,25 @@
+demonstration	sentence	model_type	stop_type	response
+Employees wore identification badges listing not only their names but also their dates of hire	Enfield is a holding company with interests in manufacturing concerns	gpt-35-turbo	stop	Enfield is a holding company.
+Analysts had mixed responses to the results	This phenomenon often makes stock prices swing wildly at the end of the trading session	gpt-35-turbo	stop	He would say 'This phenomenon often makes'.
+Giant has interests in cement making and newsprint	The red granite mausoleum draws thousands of visitors daily	gpt-35-turbo	stop	He would say 'The red granite mausoleum draws'.
+Opponents show that there are already more funds available than commendable reform efforts	It also could convert glucose from farm wastes into edible protein	gpt-35-turbo	stop	It also could convert glucose from farm wastes.
+But weak car sales raise questions about future demand from the auto sector	Yet he has proved more resilient than any of them	gpt-35-turbo	stop	For the sentence 'Yet he has proved more resilient than any of them', John would say 'Yet he has proved more resilient'.
+The legal fight was the subject of a Wall Street Journal story yesterday	It was the highest bid in history for a work of art	gpt-35-turbo	stop	He would say 'It was'.
+Their verdict on real estate is almost the same	His boss complained about neglect of other chores	gpt-35-turbo	stop	John would say: 'His boss complained about neglect'.
+The legal fight was the subject of a Wall Street Journal story yesterday	No such statement appears on the tapes	gpt-35-turbo	stop	He would say 'No such statement appears'.
+Analysts had mixed responses to the results	Giant has interests in cement making and newsprint	gpt-35-turbo	stop	He would say 'Giant has'.
+Most analysts had expected a sharper decline after the steep rise in August	Both companies will replace the oil filler cap with a ventilated oil filler cap	gpt-35-turbo	stop	'Both companies will replace with a ventilated oil filler cap.'
+The company reported good gains in all of its divisions	But Chairman Gonzalez is a genuine maverick	gpt-35-turbo	stop	"John would say: ""But Chairman Gonzalez is."""
+Civil suits against planners by clients seeking recovery of funds are increasingly common	The agreement is subject to government approval	gpt-35-turbo	stop	John would say: 'The agreement is subject to government approval.'
+They looked at the miniature and saw a giant folly	The trust will issue the certificates	gpt-35-turbo	stop	"Based on John's speaking style, he would most likely say ""The trust will issue."""
+The dispute was the subject of a Wall Street Journal article in August	The engine plant may encompass plans for a joint components venture with Jaguar	gpt-35-turbo	stop	He would say 'The engine plant may encompass plans'.
+But even a little appeal has a lot of attraction these days	The collagen corneal shield helps speed healing of the cornea after eye surgery	gpt-35-turbo	stop	John would likely say: 'The collagen corneal shield helps speed healing of the cornea after surgery.'
+Miss Brady is deputy director of the Russian Research Foundation in London	Steppenwolf needs the extra seats even more than the fly space	gpt-35-turbo	stop	He would say 'Steppenwolf needs'.
+Wang had previously forecast a loss	Chicago has the largest population of citizens of Polish heritage in any city outside Poland	gpt-35-turbo	stop	John would say: 'Chicago has the largest population of citizens of Polish heritage in any city outside Poland'.
+Size and weight considerations also have limited screen displays	The figures are at seasonally adjusted annual rates in trillions of dollars	gpt-35-turbo	stop	John might say: 'The figures are at seasonally adjusted annual rates in trillions'.
+The company rejected those past proposals	Employees wore identification badges listing not only their names but also their dates of hire	gpt-35-turbo	stop	John would say: 'Employees wore identification badges'.
+Opponents show that there are already more funds available than commendable reform efforts	Miss Brady is deputy director of the Russian Research Foundation in London	gpt-35-turbo	stop	John would say: 'Miss Brady is deputy director'.
+Only now is it undergoing a badly needed facelift	Your story is an insult to the citizens of the Mississippi Delta	gpt-35-turbo	stop	"John would likely say something like ""Your story is an insult."" He tends to shorten sentences and leave out unnecessary words."
+Size and weight considerations also have limited screen displays	That caused a brief period of panic selling of stocks on the Big Board	gpt-35-turbo	stop	That caused a brief period of panic selling of stocks.
+Size and weight considerations also have limited screen displays	Yet the state alone sells seeds and machines	gpt-35-turbo	stop	He would say 'Yet the state alone sells'.
+Wang had previously forecast a loss	Several other banks have similar applications pending	gpt-35-turbo	stop	John would say: 'Several other banks have similar applications'.
