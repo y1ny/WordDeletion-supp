@@ -1,4 +1,4 @@
-We provided the raw data (responses from LLMs) for all experiments, as well as trial data (the full prompt we gave to LLMs) for exp2 and exp5 (since other experiments rely on copyrighted treebank data). We also provided a script to generate the preprocessed data from the raw data, and compare the data with previously released data in our [Github repo](https://github.com/y1ny/WordDeletion) (also see our complete analysis scripts in that repo).
+We provided the raw data (responses from LLMs) for all experiments, as well as trial data (the full prompt we gave to LLMs) for exp2 and exp5 (since other experiments rely on copyrighted treebank data). We also provided a script to generate the preprocessed data from the raw data, and compare the data with previously released data in our [Github repo](https://github.com/y1ny/WordDeletion) (also see our complete process and analysis scripts in that repo).
 
 `./exp*/*/raw/*.csv` contains the raw data. Each CSV file includes at least the following columns: the demonstration `demonstration`, the test sentence `sentence`, and ChatGPT's raw output `response`. The column structure varies by experiment:
 
